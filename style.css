@@ -1,3 +1,9 @@
 body{
-    background-color: rgb(184, 176, 255);
+    background-color: rgb(150, 163, 238);
+}
+.topBar{
+    position: fixed;
+    background-color: rgb(84, 175, 255);
+    top: 0;
+    width: 100%;
 }
